@@ -22,7 +22,7 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>test-yofedql671ah@example.com</siteAdmin>
+    <siteAdmin>zhonghui@bluelinksys.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
     <subdomain>fun-computing-3083-dev-ed-16985874c7a</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
