@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Bikes Lightning Web Components Sample Application
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/ebikes-lwc.svg?style=svg)](https://circleci.com/gh/trailheadapps/ebikes-lwc)
@@ -262,3 +263,6 @@ The account record page features an **Account Map** component that locates the a
 1. The product record page features a **Similar Products** component.
 
 2. Click the **View Details** button to navigate to a similar product record page.
+=======
+# lwc-training
+>>>>>>> b4e21748870a71daacc7cb9895ac28ea9e3906c4
